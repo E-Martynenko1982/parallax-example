@@ -1,0 +1,17 @@
+body {
+	background-color: #f0f0f0;
+}
+
+.content-after-parallax {
+	padding: 50px;
+	background-color: #fff;
+	font-size: 1.2rem;
+	line-height: 1.6;
+	color: #333;
+}
+
+.content-after-parallax h2 {
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 2.5rem;
+}
